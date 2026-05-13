@@ -4,47 +4,70 @@
 <p align="center">
   <a href="https://wallacewebs.com/"><b>Website</b></a> •
   <a href="#tech-stack"><b>Tech Stack</b></a> •
-  <a href="#contact"><b>Contact</b></a>
+  <a href="#github-stats"><b>Stats</b></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a Senior Developer based in Brazil with deep expertise in backend architecture, system automation, and infrastructure. I love building robust, scalable applications and diving deep into the server environments that run them.
+I am a Senior Developer based in Brazil with deep expertise in backend architecture, system automation, and enterprise platforms. I love building robust, scalable applications and diving into the infrastructure that powers them.
 
 - 🏗️ Currently architecting complex backend solutions and enterprise web platforms.
-- ⚙️ Deeply interested in **Home Lab infrastructure**, **IoT (Raspberry Pi/ESP32)**, and advanced networking.
-- 💡 Constantly exploring and implementing solutions within the **Java**, **PHP**, and **Python** ecosystems.
-- 🎮 When I'm not coding or optimizing my server racks, you can find me playing strategy games, working on my English, or relaxing with my cats.
+- ⚙️ Deeply interested in **Home Lab infrastructure**, networking, and building **IoT projects** (especially with Raspberry Pi and ESP32).
+- 🎮 When I'm not coding or optimizing server racks, you can usually find me playing strategy games, practicing my English, or hanging out with my cats (Goma, Peach, Fred, and Froid).
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Expertise
 
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+#### 💻 Core Languages & Frameworks
+*   **PHP (Expert):** Laravel, CodeIgniter, Symfony, Slim
+*   **Java (Expert):** Spring Boot, Quarkus, Play Framework
+*   **TypeScript (Expert):** Angular 18, Angular 20
+*   **C (Advanced):** Embedded Systems & IoT Projects
 
-**Frameworks & Automation**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+#### 🗄️ Databases (DBMS) & Cache
+*   **Relational & Spatial (Expert):** PostgreSQL, PostGIS, Oracle DB, SQL Server, MySQL, MariaDB, H2
+*   **NoSQL & In-Memory (Expert):** MongoDB, Redis (Cache)
 
-**Infrastructure & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+#### 🎨 CSS Frameworks & UI Libraries
+*   **Expert:** Tailwind CSS, Angular PrimeNG, PrimeFaces, Bootstrap, CoreUI
+
+#### 🚀 Testing & DevOps
+*   **Expert:** Jenkins, OpenShift Platform, Unit Testing, Jira, Redmine
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Badges Overview
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <br>
+  <!-- Frameworks & Tools -->
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" alt="Quarkus"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <br>
+  <!-- DBs & DevOps -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/OpenShift-E11845?style=for-the-badge&logo=red-hat-openshift&logoColor=white" alt="OpenShift"/>
+</p>
+
+---
+
+### 📊 GitHub Stats <a name="github-stats"></a>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wallacewebs&show_icons=true&theme=radical" alt="Wallace's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacewebs&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wallacewebsbr&show_icons=true&theme=radical" alt="Wallace's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacewebsbr&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 > **Note:** *The stats above will automatically update based on your actual GitHub activity!*
