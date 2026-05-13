@@ -66,8 +66,8 @@ I am a Senior Developer based in Brazil with deep expertise in backend architect
 ### 📊 GitHub Stats <a name="github-stats"></a>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wallacewebsbr&show_icons=true&theme=radical" alt="Wallace's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacewebsbr&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=wallacewebsbr&show_icons=true&theme=radical" alt="Wallace's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=wallacewebsbr&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 > **Note:** *The stats above will automatically update based on your actual GitHub activity!*
