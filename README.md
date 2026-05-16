@@ -15,7 +15,7 @@ I am a Senior Developer based in Brazil with deep expertise in backend architect
 
 - 🏗️ Currently architecting complex backend solutions and enterprise web platforms.
 - ⚙️ Deeply interested in **Home Lab infrastructure**, networking, and building **IoT projects** (especially with Raspberry Pi and ESP32).
-- 🎮 When I'm not coding or optimizing server racks, you can usually find me playing strategy games, practicing my English, or hanging out with my cats (Goma, Peach, Fred, and Froid).
+- 🎮 When I'm not coding or optimizing server racks, you can usually find me playing strategy games, practicing my English, or hanging out with my cats (Amora, Miu).
 
 ---
 
